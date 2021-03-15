@@ -1,0 +1,13 @@
+.logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+
+  .logo-span{
+    color: #fff;
+    padding-left: 25px;
+    line-height: 40px;
+    font-size: 18px;
+    
+}
